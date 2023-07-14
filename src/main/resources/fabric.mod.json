@@ -3,7 +3,7 @@
   "id": "gavinsmod-events",
   "version": "${version}",
   "name": "gavinsmod-events",
-  "description": "",
+  "description": "An event library for fabric mods.",
   "authors": [],
   "contact": {
     "repo": "https://github.com/gcpease/gavinsmod-events"
@@ -12,12 +12,7 @@
   "icon": "assets/gavinsmod-events/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.peasenet.util.gavinsmodevents.client.Gavinsmod_eventsClient"
-    ],
-    "main": [
-      "com.peasenet.util.gavinsmodevents.Gavinsmod_events"
-    ]
+
   },
   "depends": {
     "fabricloader": ">=${loader_version}",
