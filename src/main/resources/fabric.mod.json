@@ -8,6 +8,9 @@
   "contact": {
     "repo": "https://github.com/gcpease/gavinsmod-events"
   },
+  "mixins": [
+    "gavinsmod-events.mixins.json"
+  ],
   "license": "MIT",
   "icon": "assets/gavinsmod-events/icon.png",
   "environment": "*",

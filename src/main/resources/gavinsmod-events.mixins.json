@@ -1,0 +1,13 @@
+{
+  "client": [
+    "MixinGameRendererBobView"
+  ],
+  "compatibilityLevel": "JAVA_17",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8",
+  "mixins": [],
+  "package": "com.peasenet.mixins",
+  "required": true
+}
