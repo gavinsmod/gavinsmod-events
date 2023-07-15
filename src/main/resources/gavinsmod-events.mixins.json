@@ -1,7 +1,12 @@
 {
   "client": [
+    "EntityRendererMixin",
+    "MixinBlock",
+    "MixinClientPlayerEntityAirStrafe",
+    "MixinClientPlayNetworkHandler",
     "MixinGameRendererBobView",
-    "MixinInGameHud"
+    "MixinInGameHud",
+    "MixinInGameOverlayRenderer"
   ],
   "compatibilityLevel": "JAVA_17",
   "injectors": {
