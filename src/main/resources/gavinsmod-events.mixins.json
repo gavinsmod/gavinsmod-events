@@ -1,6 +1,7 @@
 {
   "client": [
-    "MixinGameRendererBobView"
+    "MixinGameRendererBobView",
+    "MixinInGameHud"
   ],
   "compatibilityLevel": "JAVA_17",
   "injectors": {
