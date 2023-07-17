@@ -2,6 +2,7 @@
   "client": [
     "EntityRendererMixin",
     "MixinBlock",
+    "MixinChatScreen",
     "MixinClientPlayerEntityAirStrafe",
     "MixinClientPlayNetworkHandler",
     "MixinGameRendererBobView",
