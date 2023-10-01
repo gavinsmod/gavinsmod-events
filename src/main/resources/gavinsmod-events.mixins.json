@@ -4,7 +4,7 @@
     "MixinBlock",
     "MixinChatScreen",
     "MixinClientPlayerEntityAirStrafe",
-    "MixinClientPlayNetworkHandler",
+    "MixinClientCommonNetworkHandler",
     "MixinGameRendererBobView",
     "MixinInGameHud",
     "MixinInGameOverlayRenderer"
